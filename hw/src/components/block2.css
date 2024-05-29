@@ -1,0 +1,25 @@
+.block2{
+    width: 230px;
+    height: 200px;
+    display: flex;
+  }
+  .inBlock{
+    text-align: center;
+    border-right: 1px rgb(202, 202, 202) solid;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+  a{
+    text-decoration: none;
+    color: rgb(71, 118, 185);
+  }
+  
+  img{
+    width: 200px;
+    height: 150px;
+    border-right: 1px rgb(202, 202, 202) solid;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  
